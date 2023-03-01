@@ -1,13 +1,5 @@
 #include <stdio.h>
 
-/*
- *main- main entry
- *
- *description: 'print an array'
- *
- * return: 0
- */
-
 int main(void)
 {
 int n;
@@ -16,7 +8,7 @@ int *p;
 
 a[2] = 1024;
 p = &n;
-  /**
+  /*
    * write your line of code here...
    * Remember:
    * - you are not allowed to use a
@@ -29,4 +21,5 @@ p = &n;
 printf("a[2] = %d\n", a[2]);
 return (0);
 }
+
 
