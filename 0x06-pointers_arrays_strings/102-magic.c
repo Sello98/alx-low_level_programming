@@ -1,5 +1,13 @@
 #include <stdio.h>
 
+/*
+ *main- main entry
+ *
+ *description: 'print an array'
+ *
+ * return: 0
+ */
+
 int main(void)
 {
 int n;
