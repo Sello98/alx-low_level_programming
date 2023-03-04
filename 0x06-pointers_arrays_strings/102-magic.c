@@ -11,10 +11,10 @@ p = &n;
 /*
 * - write your line of code here...
 * - Remember:
-* - you are not allowed to use a
-* - you are not allowed to modify p
+* - you are not allowed to use variable a in your new line of code
+* - you are not allowed to modify the value of p
 * - only one statement
-* - you are ot allowed to code aything else than this lie of code
+* - you are not allowed to code anything else than this line of code
 */
 *p = 98;
 /* ...so that this prints 98\n */
