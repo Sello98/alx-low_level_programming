@@ -58,7 +58,7 @@ void close_file(int fn)
  */
 int main(int argc, char *argv[])
 {
-	int from, to, r, w;
+	int to, from, w, r;
 	char *buffer;
 
 	if (argc != 3)
